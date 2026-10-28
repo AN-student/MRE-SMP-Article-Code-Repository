@@ -1,0 +1,5 @@
+This is the Python code developed for the article titled "Optimising Selective Maintenance for Marine Renewable Energy Systems Under Metocean Condition Uncertainty" (Noussis et al., 2026). The manuscript for this article has been submitted to the International Journal of Production Research for publication.
+
+This Python code was developed and tested in Google Colab while using the v6e-1 TPU hardware accelerator. As such, certain aspects of the code may need to be revised if running it in other environments. The hardware accelarator used should not affect the ability for the code to run (just ensure there is at least one thread available for the multiprocessing blocks), but will heavily dictate the speed at which the code solves the given problem. The v6e-1 TPU accelerator is not only able to perform computations faster than traditional CPUs but is also able to provide over 40 CPU threads for multiprocessing.
+
+Noussis, A., Saif, A., Khatab, A., & Diallo, C. (2026). Optimising selective maintenance for marine renewable energy under metocean condition uncertainty [Manuscript submitted for publication]. Department of Industrial Engineering, Dalhousie University.
